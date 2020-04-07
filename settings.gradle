@@ -1,0 +1,2 @@
+rootProject.name='FireBaseDataStore'
+include ':app'
